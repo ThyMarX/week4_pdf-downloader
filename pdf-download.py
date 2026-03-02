@@ -21,11 +21,11 @@ from glob import glob
 
 ### EDIT FROM HERE ###
 # Here, specify path for file with URLs
-excelPath = 'C:/Users/SPAC-42/Documents/week4/GRI_2017_2020.xlsx'
+excelPath = 'GRI_2017_2020.xlsx'
 
 # Here, specify path for folder for downloads
-outputPath = 'C:/Users/SPAC-42/Documents/week4/output'
-downloadsPath = 'C:/Users/SPAC-42/Documents/week4/output/dwn'
+outputPath = 'output'
+downloadsPath = 'output/dwn'
 
 # Here, specify the name of the column with file IDs
 ID = 'BRnum'
@@ -33,9 +33,8 @@ ID = 'BRnum'
 # Here, specify how many threads you want running at the same time
 maxThreads = 3
 
-# Here, specify how many files you'd want to download before the program stops
+# Here, specify how many files you'd want to attempt to download before the program stops
 # If you want it to download all files, set the value to None
-# maxFiles = None
 maxDownloads = 10
 
 # Here, specify how much time to give a thread to attempt to download the file before stopping
