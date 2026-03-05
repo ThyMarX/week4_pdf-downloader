@@ -1,0 +1,10 @@
+File BR50043, Error: HTTP Error 403: Forbidden
+File BR50044, Error: <urlopen error [WinError 3] Den angivne sti blev ikke fundet: 'C:\\Users\\miller\\Downloads\\AA_AR2017.pdf'>
+File BR50041, Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>
+File BR50046, no data found, skipping
+File BR50047 downloaded without issue
+File BR50042 downloaded without issue
+File BR50048, Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>
+File BR50049, Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)>
+File BR50050, Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>
+File BR50045 downloaded without issue

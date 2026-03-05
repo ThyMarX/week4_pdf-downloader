@@ -1,0 +1,20 @@
+File BR50042, IAD, Is already downloaded: Skipping
+File BR50044, no, Link 1 Error: ("<urlopen error [WinError 3] Den angivne sti blev ikke fundet: 'C:\\\\Users\\\\miller\\\\Downloads\\\\AA_AR2017.pdf'>",). Link 2 Error: No data found: Skipping
+File BR50045, IAD, Is already downloaded: Skipping
+File BR50046, no, Link 1 Error: ('1: No data found: Skipping',). Link 2 Error: No data found: Skipping
+File BR50047, IAD, Is already downloaded: Skipping
+File BR50048, no, Link 1 Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>, Link 2 Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>
+File BR50049, no, Link 1 Error: ('<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)>',). Link 2 Error: No data found: Skipping
+File BR50041, no, Link 1 Error: ('<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>',). Link 2 Error: No data found: Skipping
+File BR50050, no, Link 1 Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>, Link 2 Error: <urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)>
+File BR50052, IAD, Is already downloaded: Skipping
+File BR50051, no, Link 1 Error: ('<urlopen error [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: self-signed certificate in certificate chain (_ssl.c:1032)>',). Link 2 Error: No data found: Skipping
+File BR50054, IAD, Is already downloaded: Skipping
+File BR50055, IAD, Is already downloaded: Skipping
+File BR50056, no, Link 1 Error: ('HTTP Error 403: Forbidden',). Link 2 Error: No data found: Skipping
+File BR50057, IAD, Is already downloaded: Skipping
+File BR50058, IAD, Is already downloaded: Skipping
+File BR50059, IAD, Is already downloaded: Skipping
+File BR50060, IAD, Is already downloaded: Skipping
+File BR50043, no, Link 1 Error: HTTP Error 403: Forbidden, Link 2 Error: HTTP Error 404: Not Found
+File BR50053, no, Link 1 Error: HTTP Error 404: Not Found, Link 2 Error: 3: Not a PDF: Deleting
