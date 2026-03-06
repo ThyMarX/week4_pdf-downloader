@@ -1,3 +1,9 @@
+TH: A fork of another persons pdf_downloader script, that i attemptet to both improve and test
+
+Original README below:
+
+----------
+
 
 Python code to be used to download .pdf files from a specific column in an Excel sheet.
 
